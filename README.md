@@ -1,7 +1,3 @@
-To expand your profile while maintaining that high-impact "pizzazz," we will flesh out your journey, specifically highlighting how your MCA studies and Graphic Design background create a unique professional identity.
-
-Here is the expanded, high-polish version (approx. 350 words). You can paste this directly into your special repository's README.md.
-
 💫 About Me
 
 <p align="center">
