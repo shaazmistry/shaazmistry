@@ -83,10 +83,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaazmistry&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaazmistry&theme=radical" />
-</p>
-
 ---
 
 ## 🌟 Beyond the Screen
