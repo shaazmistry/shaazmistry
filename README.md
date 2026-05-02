@@ -27,7 +27,7 @@
   <tr>
     <td width="50%">
       <h3>🎓 Master's Journey</h3>
-      <p>Pursuing MCA with a focus on <strong>Machine Learning</strong> and Python-based simulations. Currently classifying celestial spectra from the SDSS and architecting predictive models that uncover hidden patterns.</p>
+      <p>Pursuing MCA with a focus on <strong>Machine Learning</strong> and Python-based simulations.</p>
     </td>
     <td width="50%">
       <h3>⚙️ DevOps Mindset</h3>
@@ -37,7 +37,7 @@
   <tr>
     <td width="50%">
       <h3>🎨 Designer's Edge</h3>
-      <p>A <strong>Graphic Design</strong> background means I approach every Streamlit interface and data dashboard with the eye of a curator — UI/UX clarity is non-negotiable.</p>
+      <p>A <strong>Graphic Design</strong> background means I approach everyinterface and data dashboard with the eye of a curator </p>
     </td>
     <td width="50%">
       <h3>🔭 Research Curiosity</h3>
@@ -57,7 +57,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-EEEDFE?style=flat-square&logo=scikit-learn&logoColor=534AB7)
 ![Pandas](https://img.shields.io/badge/Pandas-EEEDFE?style=flat-square&logo=pandas&logoColor=534AB7)
 ![Streamlit](https://img.shields.io/badge/Streamlit-EEEDFE?style=flat-square&logo=streamlit&logoColor=534AB7)
-![SDSS](https://img.shields.io/badge/SDSS-EEEDFE?style=flat-square&logoColor=534AB7)
 
 **DevOps & Infra**
 
@@ -70,7 +69,6 @@
 **Design**
 
 ![Figma](https://img.shields.io/badge/Figma-FAECE7?style=flat-square&logo=figma&logoColor=993C1D)
-![Adobe Suite](https://img.shields.io/badge/Adobe%20Suite-FAECE7?style=flat-square&logo=adobe&logoColor=993C1D)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-FAECE7?style=flat-square&logoColor=993C1D)
 ![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-FAECE7?style=flat-square&logoColor=993C1D)
 
@@ -92,22 +90,10 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">🖌️<br/><strong>Painter</strong><br/><sub>Textures & color on canvas — a creative reset that feeds back into digital design.</sub></td>
-    <td align="center" width="33%">📚<br/><strong>Reader</strong><br/><sub>History and morality-based narratives — always looking for the longer arc.</sub></td>
-    <td align="center" width="33%">🎬<br/><strong>Cinephile</strong><br/><sub>World cinema & cinematography — visual language that inspires how I build interfaces.</sub></td>
+    <td align="center" width="33%">🖌️<br/><strong>Painter</strong><br/></td>
+    <td align="center" width="33%">📚<br/><strong>Reader</strong><br/></td>
+    <td align="center" width="33%">🎬<br/><strong>Cinephile</strong><br/></td>
   </tr>
 </table>
 
 ---
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-<p align="center">
-  <i>"Code that works is only half the battle. The real victory lies in code that scales — and speaks."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
