@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shaaz&fontSize=90&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shaaz Mistry&fontSize=90&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
   <tr>
     <td width="50%">
       <h3>🎨 Designer's Edge</h3>
-      <p>A <strong>Graphic Design</strong> background means I approach everyinterface and data dashboard with the eye of a curator </p>
+      <p>A <strong>Graphic Design</strong> background means I approach every interface and data dashboard with the eye of a curator </p>
     </td>
     <td width="50%">
       <h3>🔭 Research Curiosity</h3>
@@ -71,18 +71,6 @@
 ![Figma](https://img.shields.io/badge/Figma-FAECE7?style=flat-square&logo=figma&logoColor=993C1D)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-FAECE7?style=flat-square&logoColor=993C1D)
 ![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-FAECE7?style=flat-square&logoColor=993C1D)
-
----
-
-## 📈 GitHub Ecosystem
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaazmistry&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaazmistry&theme=radical" />
-</p>
 
 ---
 
