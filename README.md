@@ -23,25 +23,25 @@
 > **Hey, I'm Shaaz** — an MCA student who builds intelligent systems and then makes them *beautiful*.
 > My work sits at the intersection of machine learning, DevOps engineering, and graphic design.
 
-<table>
+<table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="50%">
-      <h3>🎓 Master's Journey</h3>
-      <p> Currently pursuing an MCA with a specialized focus on <strong> Machine Learning, DevOps, and Python-based development</strong></p>
+    <td width="50%" valign="top" style="padding: 10px; text-align: left;">
+      <h3 style="margin-top: 0;">🎓 Master's Journey</h3>
+      <p>Currently pursuing an MCA with a specialized focus on <strong>Machine Learning, DevOps, and Python-based development.</strong></p>
     </td>
-    <td width="50%">
-      <h3>⚙️ DevOps Mindset</h3>
-      <p>Code that works is just the beginning. I am actively pursuing the DevOps Mindset—learning to harness Docker, build automated CI/CD pipelines, and command Linux-based infrastructure. My goal is to bridge the gap between development and deployment, engineering intelligent systems that are as reliable as they are smart.</p>
+    <td width="50%" valign="top" style="padding: 10px; text-align: left;">
+      <h3 style="margin-top: 0;">⚙️ DevOps Mindset</h3>
+      <p>Code that works is just the beginning. I am actively pursuing the DevOps Mindset—learning to harness Docker, build automated CI/CD pipelines, and command Linux-based infrastructure. My goal is to bridge the gap between development and deployment.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🎨 Designer's Edge</h3>
-      <p>A <strong>Graphic Design</strong> background means I approach every interface and data dashboard with the eye of a curator </p>
+    <td width="50%" valign="top" style="padding: 10px; text-align: left;">
+      <h3 style="margin-top: 0;">🎨 Designer's Edge</h3>
+      <p>A <strong>Graphic Design</strong> background means I approach every interface and data dashboard with the eye of a curator.</p>
     </td>
-    <td width="50%">
-      <h3>🔭 Research Curiosity</h3>
-      <p>I am currently expanding my technical horizons by diving into MLOps—integrating my love for Python with the essential DevOps skills needed to deploy and scale intelligent systems. My journey is about evolving from building models to mastering the infrastructure that brings them to life.</p>
+    <td width="50%" valign="top" style="padding: 10px; text-align: left;">
+      <h3 style="margin-top: 0;">🔭 Research Curiosity</h3>
+      <p>I am currently expanding my technical horizons by diving into MLOps—integrating my love for Python with the essential DevOps skills needed to deploy and scale intelligent systems.</p>
     </td>
   </tr>
 </table>
