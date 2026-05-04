@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=700&size=22&duration=3000&pause=800&color=7F77DD&center=true&vCenter=true&width=620&lines=MCA+Student+%7C+ML+Engineer+%7C+Designer;alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=700&size=22&duration=3000&pause=800&color=7F77DD&center=true&vCenter=true&width=620&lines=MCA+Student+%7C+ML+Engineer+%7C+Designer" />
 </p>
 
 <p align="center">
@@ -71,17 +71,3 @@
 ![Figma](https://img.shields.io/badge/Figma-FAECE7?style=flat-square&logo=figma&logoColor=993C1D)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-FAECE7?style=flat-square&logoColor=993C1D)
 ![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-FAECE7?style=flat-square&logoColor=993C1D)
-
----
-
-## 🌟 Beyond the Screen
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">🖌️<br/><strong>Painter</strong><br/></td>
-    <td align="center" width="33%">📚<br/><strong>Reader</strong><br/></td>
-    <td align="center" width="33%">🎬<br/><strong>Cinephile</strong><br/></td>
-  </tr>
-</table>
-
----
