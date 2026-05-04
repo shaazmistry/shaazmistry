@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=700&size=22&duration=3000&pause=800&color=7F77DD&center=true&vCenter=true&width=620&lines=MCA+Student+%7C+ML+Engineer+%7C+Designer;Building+intelligent+systems+beautifully.;Where+data+logic+meets+human+design." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=700&size=22&duration=3000&pause=800&color=7F77DD&center=true&vCenter=true&width=620&lines=MCA+Student+%7C+ML+Engineer+%7C+Designer;alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,11 +27,11 @@
   <tr>
     <td width="50%">
       <h3>🎓 Master's Journey</h3>
-      <p>Pursuing MCA with a focus on <strong>Machine Learning</strong> and Python-based simulations.</p>
+      <p> Currently pursuing an MCA with a specialized focus on <strong> Machine Learning, DevOps, and Python-based development</strong></p>
     </td>
     <td width="50%">
       <h3>⚙️ DevOps Mindset</h3>
-      <p>Code that works is only half the battle. Mastering <strong>Docker</strong>, CI/CD pipelines, and Linux-based infrastructure to make intelligent systems as reliable as they are smart.</p>
+      <p>Code that works is just the beginning. I am actively pursuing the DevOps Mindset—learning to harness Docker, build automated CI/CD pipelines, and command Linux-based infrastructure. My goal is to bridge the gap between development and deployment, engineering intelligent systems that are as reliable as they are smart.</p>
     </td>
   </tr>
   <tr>
@@ -41,7 +41,7 @@
     </td>
     <td width="50%">
       <h3>🔭 Research Curiosity</h3>
-      <p>Drawn to neural architectures and multidimensional classification. I treat every dataset as a puzzle the universe left behind.</p>
+      <p>I am currently expanding my technical horizons by diving into MLOps—integrating my love for Python with the essential DevOps skills needed to deploy and scale intelligent systems. My journey is about evolving from building models to mastering the infrastructure that brings them to life.</p>
     </td>
   </tr>
 </table>
@@ -76,7 +76,7 @@
 
 ## 🌟 Beyond the Screen
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="33%">🖌️<br/><strong>Painter</strong><br/></td>
     <td align="center" width="33%">📚<br/><strong>Reader</strong><br/></td>
