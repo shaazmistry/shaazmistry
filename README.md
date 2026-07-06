@@ -1,39 +1,39 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD6EC,100:FF6FCF&height=200&section=header&text=SHAAZ%20MISTRY&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=ML%20Engineer%20%C3%97%20Graphic%20Designer&descAlignY=62&descSize=20&animation=fadeIn" />
+# 𝓢𝓗𝓐𝓐𝓩 𝓜𝓘𝓢𝓣𝓡𝓨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF6FCF&center=true&vCenter=true&width=500&lines=training+models...;designing+zines...;stargazing+at+night...;sketching+something+new..." />
+<sub>ML Engineer × Graphic Designer</sub>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF6FCF&center=true&vCenter=true&width=480&lines=training+models...;designing+zines...;stargazing+at+night...;sketching+something+new..." />
 
-`  /\_/\  `  ·  **welcome to my corner of the internet**  ·  `( o.o )`
+`/\_/\`  ·  **welcome to my corner of the internet**  ·  `( o.o )`
 
 </div>
 
-<br>
+&nbsp;
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:FFC1E3,100:FF6FCF&height=55&section=header&text=About%20Me&fontSize=22&fontColor=ffffff&fontAlignY=60" />
+### 🩷 About Me
 
-<table width="100%" style="border-collapse: collapse;">
+<table width="100%">
 <tr>
-<td align="center" bgcolor="#FFF3FA">
+<td align="center" bgcolor="#FFF5FA">
 <br>
 
-Hi, I'm **Shaaz** — I live at the intersection of **data** and **design**. 🩷
+Hi, I'm **Shaaz** — I live at the intersection of **data** and **design**.
 
 By day: building ML models, wrangling data, chasing accuracy scores 📊
 By craft: **2 years** deep in graphic design — layouts, zines, visual stories 🎨
 
-Currently pursuing my **MCA** (Master of Computer Applications) and always learning something new ✧
+Currently pursuing my **MCA** *(Master of Computer Applications)* and always learning something new ✧
 
 <br>
 </td>
 </tr>
 </table>
 
-<br>
+&nbsp;
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:FFC1E3,100:FF6FCF&height=55&section=header&text=Machine%20Learning%20Skills&fontSize=20&fontColor=ffffff&fontAlignY=60" />
+### 🩷 Machine Learning Skills
 
 <div align="center">
 
@@ -49,9 +49,9 @@ Currently pursuing my **MCA** (Master of Computer Applications) and always learn
 
 </div>
 
-<br>
+&nbsp;
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:FFC1E3,100:FF6FCF&height=55&section=header&text=Graphic%20Design%20Skills&fontSize=20&fontColor=ffffff&fontAlignY=60" />
+### 🩷 Graphic Design Skills
 
 <div align="center">
 
@@ -61,34 +61,34 @@ Currently pursuing my **MCA** (Master of Computer Applications) and always learn
 
 </div>
 
-<br>
+&nbsp;
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:FFC1E3,100:FF6FCF&height=55&section=header&text=Hobbies%20%26%20Interests&fontSize=20&fontColor=ffffff&fontAlignY=60" />
+### 🩷 Hobbies & Interests
 
 <table width="100%">
 <tr>
-<td align="center" width="25%" bgcolor="#FFF3FA">
+<td align="center" width="25%" bgcolor="#FFF5FA">
 
 ✦ ⋆ ˚
 <br><b>Astronomy</b>
 <br><sub>reading about stars</sub>
 
 </td>
-<td align="center" width="25%" bgcolor="#FFF3FA">
+<td align="center" width="25%" bgcolor="#FFF5FA">
 
 🎨
 <br><b>Painting</b>
 <br><sub>& sketching</sub>
 
 </td>
-<td align="center" width="25%" bgcolor="#FFF3FA">
+<td align="center" width="25%" bgcolor="#FFF5FA">
 
 📖
 <br><b>Reading</b>
 <br><sub>always exploring</sub>
 
 </td>
-<td align="center" width="25%" bgcolor="#FFF3FA">
+<td align="center" width="25%" bgcolor="#FFF5FA">
 
 🔬
 <br><b>Research</b>
@@ -98,13 +98,13 @@ Currently pursuing my **MCA** (Master of Computer Applications) and always learn
 </tr>
 </table>
 
-<br>
+&nbsp;
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:FFC1E3,100:FF6FCF&height=55&section=header&text=Education&fontSize=20&fontColor=ffffff&fontAlignY=60" />
+### 🩷 Education
 
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#FFF3FA">
+<td align="center" bgcolor="#FFF5FA">
 <br>
 
 **🎓 MCA** — Master of Computer Applications
@@ -115,9 +115,9 @@ Currently pursuing my **MCA** (Master of Computer Applications) and always learn
 </tr>
 </table>
 
-<br>
+&nbsp;
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:FFC1E3,100:FF6FCF&height=55&section=header&text=Let's%20Connect&fontSize=20&fontColor=ffffff&fontAlignY=60" />
+### 🩷 Let's Connect
 
 <div align="center">
 
@@ -130,14 +130,12 @@ Currently pursuing my **MCA** (Master of Computer Applications) and always learn
 
 </div>
 
-<br>
+&nbsp;
 
 <div align="center">
 
 <sub>`( ^.^ )` &nbsp; keep training, keep creating &nbsp; `( ^.^ )`</sub>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shaazmistry&color=ff6fcf&style=for-the-badge&label=VISITORS)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6FCF,100:FFD6EC&height=80&section=footer" />
+![Profile Views](https://komarev.com/ghpvc/?username=shaazmistry&color=ff6fcf&style=flat-square&label=visitors)
 
 </div>
