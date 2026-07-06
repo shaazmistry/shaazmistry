@@ -69,10 +69,6 @@ Currently pursuing my **MCA** *(Master of Computer Applications)* and always lea
 <!-- Replace # with your actual profile links -->
 [![GitHub](https://img.shields.io/badge/GitHub-FFF0F8?style=flat-square&logo=github&logoColor=FF6FCF)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF0F8?style=flat-square&logo=linkedin&logoColor=FF6FCF)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-FFF0F8?style=flat-square&logo=instagram&logoColor=FF6FCF)](#)
-[![Behance](https://img.shields.io/badge/Behance-FFF0F8?style=flat-square&logo=behance&logoColor=FF6FCF)](#)
-[![Kaggle](https://img.shields.io/badge/Kaggle-FFF0F8?style=flat-square&logo=kaggle&logoColor=FF6FCF)](#)
-
 &nbsp;
 
 <div align="center">
