@@ -4,11 +4,11 @@
 
 <sub>ML Engineer × Graphic Designer</sub>
 
-```
+
    ✦  .  ⋆    .   ✦    ˚   ⋆   .   ✦
               ,🌙
    ⋆   .   ✦    ˚    .   ⋆   .   ✦
-```
+
 
 </div>
 
@@ -85,7 +85,7 @@ Currently pursuing my **MCA** *(Master of Computer Applications)* and always lea
 ```
    .  ⋆   ✦   /\_/\   ✦   ⋆  .
               ( ^.^ )
-   ⋆   .  ✦    > ^ <    ✦   .  ⋆
+   ⋆   .  ✦      ✦   .  ⋆ ⋆   . 
 ```
 
 <sub>keep training, keep creating</sub>
