@@ -1,73 +1,77 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shaaz&fontSize=90&animation=fadeIn&fontAlignY=35" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Syne&weight=700&size=22&duration=3000&pause=800&color=7F77DD&center=true&vCenter=true&width=620&lines=MCA+Student+%7C+ML+Engineer+%7C+Designer" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6584&height=200&section=header&text=Hi%20There,%20I'm%20%5BYour%20Name%5D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20ML%20Engineer%20%7C%20Graphic%20Designer&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python%20%26%20ML-534AB7?style=flat-square&labelColor=EEEDFE&color=534AB7" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/DevOps%20%26%20Docker-0F6E56?style=flat-square&labelColor=E1F5EE&color=0F6E56" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Graphic%20Design-993C1D?style=flat-square&labelColor=FAECE7&color=993C1D" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Linux%20%26%20CI%2FCD-854F0B?style=flat-square&labelColor=FAEEDA&color=854F0B" />
-</p>
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=MCA+Student;Aspiring+ML+Engineer;Graphic+Designer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
----
+</div>
 
-## 💫 About Me
+<br>
 
-> **Hey, I'm Shaaz** — an MCA student who builds intelligent systems and then makes them *beautiful*.
-> My work sits at the intersection of machine learning, DevOps engineering, and graphic design.
+## 👋 About Me
 
-<table align="center" width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td width="50%" valign="top" style="padding: 10px; text-align: left;">
-      <h3 style="margin-top: 0;">🎓 Master's Journey</h3>
-      <p>Currently pursuing an MCA with a specialized focus on <strong>Machine Learning, DevOps, and Python-based development.</strong></p>
-    </td>
-    <td width="50%" valign="top" style="padding: 10px; text-align: left;">
-      <h3 style="margin-top: 0;">⚙️ DevOps Mindset</h3>
-      <p>Code that works is just the beginning. I am actively pursuing the DevOps Mindset—learning to harness Docker, build automated CI/CD pipelines, and command Linux-based infrastructure. My goal is to bridge the gap between development and deployment.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="padding: 10px; text-align: left;">
-      <h3 style="margin-top: 0;">🎨 Designer's Edge</h3>
-      <p>A <strong>Graphic Design</strong> background means I approach every interface and data dashboard with the eye of a curator.</p>
-    </td>
-    <td width="50%" valign="top" style="padding: 10px; text-align: left;">
-      <h3 style="margin-top: 0;">🔭 Research Curiosity</h3>
-      <p>I am currently expanding my technical horizons by diving into MLOps—integrating my love for Python with the essential DevOps skills needed to deploy and scale intelligent systems.</p>
-    </td>
-  </tr>
-</table>
+I'm **[Your Name]**, a Master of Computer Applications (MCA) student with a growing passion for **Machine Learning** and a longstanding love for **Graphic Design** — nearly **2 years** into exploring design now. I enjoy building things, learning new tools, and constantly experimenting across both the technical and creative sides of my interests.
 
----
+I'm currently focused on strengthening my ML fundamentals while continuing to sharpen my design craft — two separate paths I'm pursuing in parallel, each with its own set of skills and goals.
 
-## 🛠 Technical Universe
+<br>
 
-**Data & ML**
+## 🎓 Education
 
-![Python](https://img.shields.io/badge/Python-EEEDFE?style=flat-square&logo=python&logoColor=534AB7)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-EEEDFE?style=flat-square&logo=tensorflow&logoColor=534AB7)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-EEEDFE?style=flat-square&logo=scikit-learn&logoColor=534AB7)
-![Pandas](https://img.shields.io/badge/Pandas-EEEDFE?style=flat-square&logo=pandas&logoColor=534AB7)
-![Streamlit](https://img.shields.io/badge/Streamlit-EEEDFE?style=flat-square&logo=streamlit&logoColor=534AB7)
+- **Master of Computer Applications (MCA)** — *[Your University Name]* (in progress)
+- **Bachelor's Degree** — *[Your College/University Name]*
 
-**DevOps & Infra**
+<br>
 
-![Docker](https://img.shields.io/badge/Docker-E1F5EE?style=flat-square&logo=docker&logoColor=0F6E56)
-![Linux](https://img.shields.io/badge/Linux-E1F5EE?style=flat-square&logo=linux&logoColor=0F6E56)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-E1F5EE?style=flat-square&logo=github-actions&logoColor=0F6E56)
-![Git](https://img.shields.io/badge/Git-E1F5EE?style=flat-square&logo=git&logoColor=0F6E56)
-![Bash](https://img.shields.io/badge/Bash-E1F5EE?style=flat-square&logo=gnu-bash&logoColor=0F6E56)
+## 🤖 Machine Learning & Data Skills
 
-**Design**
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</div>
 
-![Figma](https://img.shields.io/badge/Figma-FAECE7?style=flat-square&logo=figma&logoColor=993C1D)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-FAECE7?style=flat-square&logoColor=993C1D)
-![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-FAECE7?style=flat-square&logoColor=993C1D)
+**Currently exploring:**
+- Data analysis & visualization (Pandas, NumPy, Matplotlib, Seaborn)
+- Building and training models with TensorFlow
+- Working with real-world datasets on Kaggle
+- Experimenting and prototyping in Google Colab / Jupyter Notebooks
+
+<br>
+
+## 🎨 Graphic Design Skills
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zine%20Making-6C63FF?style=for-the-badge&logo=bookstack&logoColor=white" />
+</div>
+
+**Design interests:**
+- Visual design & layout using **Canva**
+- UI/UX prototyping and design in **Figma**
+- **Zine making** — independent, DIY-style visual storytelling
+- ~2 years of hands-on design practice and exploration
+
+<br>
+
+## 🌱 Hobbies & Interests
+
+- 📚 Reading
+- 🎨 Painting
+- 🔭 Learning about Astronomy
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6584,100:6C63FF&height=100&section=footer"/>
+</div>
