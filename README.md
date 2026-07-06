@@ -1,77 +1,131 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6584&height=200&section=header&text=Hi%20There,%20I'm%20%5BYour%20Name%5D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20ML%20Engineer%20%7C%20Graphic%20Designer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:1a1a2e,100:0F0F0F&height=180&section=header&text=%5BYOUR%20NAME%5D&fontSize=48&fontColor=00FF41&fontAlignY=42&desc=SYSTEM.EXE%20%7C%7C%20ML_ENGINEER_v0.2%20%7C%7C%20DESIGNER_v2.0&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=MCA+Student;Aspiring+ML+Engineer;Graphic+Designer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+```
+╔══════════════════════════════════════════════════════════╗
+║  C:\USERS\SHAAZ> whoami                                      ║
+║  > MCA Student | Aspiring ML Engineer | Graphic Designer   ║
+║  C:\USERS\SHAAZ> status --uptime                              ║
+║  > Learning since boot. Still compiling dreams...           ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&width=700&lines=LOADING+PROFILE...;MCA+STUDENT+DETECTED;ML_MODULE+%3D+ONLINE;DESIGN_MODULE+%3D+ONLINE;PRESS+ANY+KEY+TO+CONTINUE_" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-## 👋 About Me
+## ▸ ABOUT.TXT
 
-I'm **[Your Name]**, a Master of Computer Applications (MCA) student with a growing passion for **Machine Learning** and a longstanding love for **Graphic Design** — nearly **2 years** into exploring design now. I enjoy building things, learning new tools, and constantly experimenting across both the technical and creative sides of my interests.
+```
+> Name        : [SHAAZ]
+> Role        : IMCA Student
+> Aspiration  : ML Engineer + Graphic Designer
+> Status      : Actively learning, building, breaking things, fixing them again
+> Note        : Design experience running for ~2 years and counting
+```
 
-I'm currently focused on strengthening my ML fundamentals while continuing to sharpen my design craft — two separate paths I'm pursuing in parallel, each with its own set of skills and goals.
+I'm **SHAAZ** — currently pursuing my **IMCA**, splitting my time between two very different worlds: training models on one screen and designing visuals on the other. These are two separate tracks I'm growing in parallel.
 
 <br>
 
-## 🎓 Education
+---
 
-- **Master of Computer Applications (MCA)** — *[Your University Name]* (in progress)
-- **Bachelor's Degree** — *[Your College/University Name]*
+## ▸ MODULE_01 :: MACHINE LEARNING
 
-<br>
+<div align="center">
 
-## 🤖 Machine Learning & Data Skills
+```
+┌─────────────────────────────────────────┐
+│  >> INITIALIZING ML_STACK.SYS            │
+│  >> LOADING LIBRARIES...          [ OK ] │
+└─────────────────────────────────────────┘
+```
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=numpy&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/MATPLOTLIB-000000?style=for-the-badge&logo=plotly&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/SEABORN-000000?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/GOOGLE_COLAB-000000?style=for-the-badge&logo=googlecolab&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/KAGGLE-000000?style=for-the-badge&logo=kaggle&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/JUPYTER-000000?style=for-the-badge&logo=jupyter&logoColor=00FF41&labelColor=000000" />
+
 </div>
 
-**Currently exploring:**
-- Data analysis & visualization (Pandas, NumPy, Matplotlib, Seaborn)
-- Building and training models with TensorFlow
-- Working with real-world datasets on Kaggle
-- Experimenting and prototyping in Google Colab / Jupyter Notebooks
+```
+> RUNNING: skill_check.py
+
+  [██████████████████████████] DATA ANALYSIS      (Pandas / NumPy)
+  [██████████████████████████] VISUALIZATION       (Matplotlib / Seaborn)
+  [██████████████████████████] MODEL BUILDING      (TensorFlow)
+  [██████████████████████████] DATASETS            (Kaggle)
+  [██████████████████████████] PROTOTYPING         (Google Colab / Jupyter)
+
+> PROCESS COMPLETE. ML_MODULE ONLINE.
+```
 
 <br>
 
-## 🎨 Graphic Design Skills
+---
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zine%20Making-6C63FF?style=for-the-badge&logo=bookstack&logoColor=white" />
+## ▸ MODULE_02 :: GRAPHIC DESIGN
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────┐
+│  >> INITIALIZING DESIGN_STACK.SYS        │
+│  >> RUNTIME: ~2 YEARS              [ OK ]│
+└─────────────────────────────────────────┘
+```
+
+<img src="https://img.shields.io/badge/CANVA-0D1117?style=for-the-badge&logo=canva&logoColor=FF2E9F&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FIGMA-0D1117?style=for-the-badge&logo=figma&logoColor=00E5FF&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/ZINE_MAKING-0D1117?style=for-the-badge&logo=bookstack&logoColor=FFD700&labelColor=0D1117" />
+
 </div>
 
-**Design interests:**
-- Visual design & layout using **Canva**
-- UI/UX prototyping and design in **Figma**
-- **Zine making** — independent, DIY-style visual storytelling
-- ~2 years of hands-on design practice and exploration
+```
+> RUNNING: design_check.py
+
+  [██████████████████████████] VISUAL DESIGN & LAYOUT     (Canva)
+  [██████████████████████████] UI / PROTOTYPING            (Figma)
+  [██████████████████████████] DIY VISUAL STORYTELLING     (Zine Making)
+  [██████████████████████████] EXPERIENCE                  (~2 years active)
+
+> PROCESS COMPLETE. DESIGN_MODULE ONLINE.
+```
 
 <br>
 
-## 🌱 Hobbies & Interests
+---
 
-- 📚 Reading
-- 🎨 Painting
-- 🔭 Learning about Astronomy
+## ▸ SIDE_PROCESSES.BAT :: HOBBIES
+
+```
+> tasklist /hobbies
+
+  PID   NAME                  STATUS
+  001   Reading               RUNNING
+  002   Painting              RUNNING
+  003   Astronomy             RUNNING (stargazing.exe)
+```
 
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6584,100:6C63FF&height=100&section=footer"/>
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  END OF FILE — THANKS FOR VISITING C:\YOU\README.MD         ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:1a1a2e,100:0F0F0F&height=100&section=footer"/>
+
 </div>
