@@ -50,11 +50,6 @@ Currently pursuing my **MCA** *(Master of Computer Applications)* and always lea
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=100000&color=FF6FCF&center=false&vCenter=true&width=400&height=30&lines=HOBBIES" />
 
 
-    ⋆                 .
-        ✦   ⋆                🌙
-   .            ✦        .
-
-
 - ✦ **Astronomy** — reading about stars
 - ✎ **Painting & Sketching**
 - ✦ **Reading** — always exploring
@@ -83,9 +78,9 @@ Currently pursuing my **MCA** *(Master of Computer Applications)* and always lea
 <div align="center">
 
 
-   .  ⋆   ✦   /\_/\   ✦   ⋆  .
-              ( ^.^ )
-   ⋆   .  ✦      ✦   .  ⋆ ⋆   . 
+   .  ⋆   ✦   ✦   ⋆  .  ⋆   .  ✦      ✦   .  ⋆ ⋆   . 
+
+   ⋆   .  ✦      ✦   .  ⋆ ⋆   .  ⋆   .  ✦      ✦ 
 
 
 <sub>keep training, keep creating</sub>
