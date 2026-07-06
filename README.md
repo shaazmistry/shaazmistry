@@ -8,11 +8,11 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  C:\USERS\SHAAZ> whoami                                    ║
-║  > Shaaz Mistry — IMCA Student                              ║
-║  > Aspiring ML Engineer | Graphic Designer                  ║
-║  C:\USERS\SHAAZ> status --uptime                            ║
-║  > Learning since boot. Still compiling dreams...            ║
+║  C:\USERS\SHAAZ> whoami                                  ║
+║  > Shaaz Mistry — IMCA Student                           ║
+║  > Aspiring ML Engineer | Graphic Designer               ║
+║  C:\USERS\SHAAZ> status --uptime                         ║
+║  > Learning since boot. Still compiling dreams...        ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -30,7 +30,7 @@
 > Note        : Design experience running for ~2 years and counting
 ```
 
-I'm **Shaaz Mistry** — currently pursuing my **IMCA**, splitting my time between two very different worlds: training models on one screen and designing visuals on the other. These are two separate tracks I'm growing in parallel, not one blended skillset.
+I'm **Shaaz Mistry** — currently pursuing my **IMCA**, splitting my time between two very different worlds: training models on one screen and designing visuals on the other. These are two separate tracks I'm growing in parallel.
 
 <br>
 
@@ -40,9 +40,9 @@ I'm **Shaaz Mistry** — currently pursuing my **IMCA**, splitting my time betwe
 
 ```
 ┌─────────────────────────────────────────┐
-│  >> INITIALIZING ML_STACK.SYS            │
-│  >> LOADING LIBRARIES...          [ OK ] │
-│  >> GPU DETECTED..................[ OK ] │
+│  >> INITIALIZING ML_STACK.SYS           │
+│  >> LOADING LIBRARIES...          [ OK ]│
+│  >> GPU DETECTED..................[ OK ]│
 └─────────────────────────────────────────┘
 ```
 
@@ -79,9 +79,9 @@ I'm **Shaaz Mistry** — currently pursuing my **IMCA**, splitting my time betwe
 
 ```
 ┌─────────────────────────────────────────┐
-│  >> INITIALIZING DESIGN_STACK.SYS        │
-│  >> RUNTIME: ~2 YEARS              [ OK ]│
-│  >> RENDER ENGINE.................[ OK ] │
+│  >> INITIALIZING DESIGN_STACK.SYS       │
+│  >> RUNTIME: ~2 YEARS            [ OK ] │
+│  >> RENDER ENGINE................[ OK ] │
 └─────────────────────────────────────────┘
 ```
 
@@ -121,8 +121,8 @@ I'm **Shaaz Mistry** — currently pursuing my **IMCA**, splitting my time betwe
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  END OF FILE — THANKS FOR VISITING C:\SHAAZ\README.MD        ║
-║  CONNECTION CLOSED. HAVE A GREAT DAY, HUMAN.                 ║
+║  END OF FILE — THANKS FOR VISITING C:\SHAAZ\README.MD    ║
+║  CONNECTION CLOSED. HAVE A GREAT DAY, HUMAN.             ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
